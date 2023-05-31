@@ -106,13 +106,26 @@ hr{
     color: white !important;
 }
 
-.btn1{
+ /* .btn1{
     width: 11% !important;
-}
+} */
 
-@media (min-width: 425px){
+@media (min-width: 375px){
     .img1{
-        width: 150px;
+        width: 164px;
     }
+
+    .box{
+        width: 50px;
+    }
+/* 
+    .btn1{
+        width: 4px !important;
+    } */
+
+    /* .container{
+        padding: 0 10px 0;
+    } */
+
 }
  
